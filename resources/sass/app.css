@@ -1,0 +1,12 @@
+
+body{
+
+}
+
+.aside{
+    background: coral;
+    min-height:100%;
+    width:20%;
+    border: 2px solid black;
+
+}

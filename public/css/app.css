@@ -1,0 +1,59 @@
+
+body{
+    padding-left:25%
+
+}
+
+
+.aside{
+    background: coral;
+    min-height:100%;
+    width:20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-left:20px;
+
+}
+
+.head_dashboard{
+
+}
+
+.logout_button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+
+}
+.el_in_list{
+    font-size: large;
+    margin: 20px;
+    padding: 20px;
+    min-height: 5%;
+    background: coral;
+
+}
+.el_edit_menu{
+    margin-top: 0;
+    float: right;
+}
+.radio{
+    margin: 20px;
+}
+.book_name_create{
+    margin: 30px;
+}
+.radio_block{
+    margin: 20px;
+    border: 2px solid coral;
+}
+.save_button{
+    margin: 20px;
+}
+.create_form{
+    font-size: large;
+}
